@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stardew-ingredients/static/css/main.a617e044.chunk.css",
+    "main.js": "/stardew-ingredients/static/js/main.5cd281db.chunk.js",
+    "main.js.map": "/stardew-ingredients/static/js/main.5cd281db.chunk.js.map",
+    "runtime-main.js": "/stardew-ingredients/static/js/runtime-main.c0eca092.js",
+    "runtime-main.js.map": "/stardew-ingredients/static/js/runtime-main.c0eca092.js.map",
+    "static/js/2.b3007204.chunk.js": "/stardew-ingredients/static/js/2.b3007204.chunk.js",
+    "static/js/2.b3007204.chunk.js.map": "/stardew-ingredients/static/js/2.b3007204.chunk.js.map",
+    "static/js/3.7c0bc082.chunk.js": "/stardew-ingredients/static/js/3.7c0bc082.chunk.js",
+    "static/js/3.7c0bc082.chunk.js.map": "/stardew-ingredients/static/js/3.7c0bc082.chunk.js.map",
+    "index.html": "/stardew-ingredients/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/stardew-ingredients/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b3007204.chunk.js.LICENSE.txt": "/stardew-ingredients/static/js/2.b3007204.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0eca092.js",
+    "static/js/2.b3007204.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5cd281db.chunk.js"
+  ]
+}
